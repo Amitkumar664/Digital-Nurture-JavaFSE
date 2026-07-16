@@ -1,0 +1,8 @@
+.idea/
+target/
+out/
+*.class
+*.log
+.vscode/
+.DS_Store
+Thumbs.db
